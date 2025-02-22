@@ -44,8 +44,8 @@ I'm always open to networking and professional opportunities. Feel free to reach
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=albertusortiz&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
 
 ### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 ### 📂 My Projects
